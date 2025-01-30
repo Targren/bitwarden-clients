@@ -11,6 +11,8 @@
 
 ---
 
+Repository Rolled back to Last Extension version before awful 2025 browser extension update.  
+
 # Bitwarden Client Applications
 
 This repository houses all Bitwarden client applications except the [Mobile application](https://github.com/bitwarden/mobile).
